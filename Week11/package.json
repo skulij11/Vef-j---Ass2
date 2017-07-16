@@ -1,0 +1,21 @@
+{
+  "name": "punchapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "body-parser": "^1.15.2",
+    "elasticsearch": "^12.0.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.4",
+    "node-uuid": "^1.4.7",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

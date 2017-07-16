@@ -1,0 +1,16 @@
+{
+  "name": "punchcardapi",
+  "version": "1.0.0",
+  "description": "Home assignment 7",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skulij11",
+  "license": "ISC"
+}
